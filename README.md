@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola! Soy Joan Gomez 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C8FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Amante+del+c%C3%B3digo+y+la+creatividad;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://assets-prd.ignimgs.com/2022/11/04/arenabreakoutclosedbetaannouncementtrailer-ign-blogroll-1667586147636.jpg?width=1280" width="300px" alt="Welcome gif">
